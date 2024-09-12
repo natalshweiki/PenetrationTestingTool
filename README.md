@@ -4,6 +4,7 @@ This is a simple cybersecurity tool I developed for penetration testing. It scan
 
 **Requirements:**
 - Python
+- Python-Nmap
 - Nmap
 - Metasploit
 - Flask
